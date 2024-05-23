@@ -1,0 +1,4 @@
+embedchain
+google-generativeai
+openai
+# ipykernel
